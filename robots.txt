@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://reshousi.github.io/sitemap.html.gz
+Sitemap: https://reshousi.github.io/app/sitemap.html.gz
+Sitemap: https://reshousi.github.io/assets/sitemap.html.gz
+Sitemap: https://reshousi.github.io/css/sitemap.html.gz
+Sitemap: https://reshousi.github.io/includes/sitemap.html.gz
+Sitemap: https://reshousi.github.io/item/sitemap.html.gz
+Sitemap: https://reshousi.github.io/src/sitemap.html.gz
